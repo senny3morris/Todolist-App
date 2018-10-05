@@ -1,0 +1,34 @@
+li{
+    display: inline;
+    margin: 8px;
+}
+body{
+   background-color:blueviolet;
+
+}
+button{
+    color: blue;
+    background-color: white;
+    border: 10px;
+    border: radius 30px;
+    padding: 15px;
+
+}
+from{
+text-align: left;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 10px;
+}
+
+input{
+    width: 10px;
+    height: 10px;
+    border: radius 30px;
+}
+legend{
+    color: blue;
+    background-color: white;
+}
+
+
+
